@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: serif;
+}
+h1 {
+    color: darkseagreen;
+    font-family: monospace;
+}
+h2 {
+    color: darksalmon;
+    font-family: inherit;
+}
+h3 {
+    color: cornflowerblue;
+    font-family:sans-serif;
+}
+#Welcome {
+    color: antiquewhite;
+    text-align: center;
+    font-family: cursive;
+}
+.Reading To Me {
+    color:beige;
+    text-align: center;
+    font-family:serif;
+}
+.Famous Books {
+    color: azure;
+    text-align: center;
+    font-family:inherit;
+}
